@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Software developer interview Lunes V1\Projects\02_BitmapPlayground\Filter\bin\Debug\Filter.dll
+C:\Users\User\Desktop\Software developer interview Lunes V1\Projects\02_BitmapPlayground\Filter\bin\Debug\Filter.pdb
+C:\Users\User\Desktop\Software developer interview Lunes V1\Projects\02_BitmapPlayground\Filter\obj\Debug\Filter.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Software developer interview Lunes V1\Projects\02_BitmapPlayground\Filter\obj\Debug\Filter.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Software developer interview Lunes V1\Projects\02_BitmapPlayground\Filter\obj\Debug\Filter.dll
+C:\Users\User\Desktop\Software developer interview Lunes V1\Projects\02_BitmapPlayground\Filter\obj\Debug\Filter.pdb

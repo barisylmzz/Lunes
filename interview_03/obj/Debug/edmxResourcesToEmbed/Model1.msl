@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="GelirGiderLunesModelStoreContainer" CdmEntityContainer="GelirGiderLunesEntities1">
+    <EntitySetMapping Name="GelirGiders">
+      <EntityTypeMapping TypeName="GelirGiderLunesModel.GelirGider">
+        <MappingFragment StoreEntitySet="GelirGider">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="GelirGiderİsmi" ColumnName="GelirGiderİsmi" />
+          <ScalarProperty Name="Tutar" ColumnName="Tutar" />
+          <ScalarProperty Name="Tip" ColumnName="Tip" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

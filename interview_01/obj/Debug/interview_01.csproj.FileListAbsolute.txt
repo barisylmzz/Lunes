@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\c# çalışmalar\lunes\interview_01\obj\Debug\interview_01.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c# çalışmalar\lunes\interview_01\bin\Debug\interview_01.exe.config
+C:\Users\User\Desktop\c# çalışmalar\lunes\interview_01\bin\Debug\interview_01.exe
+C:\Users\User\Desktop\c# çalışmalar\lunes\interview_01\bin\Debug\interview_01.pdb
+C:\Users\User\Desktop\c# çalışmalar\lunes\interview_01\obj\Debug\interview_01.exe
+C:\Users\User\Desktop\c# çalışmalar\lunes\interview_01\obj\Debug\interview_01.pdb
+C:\Users\User\Desktop\Software developer interview Lunes V1\Projects\interview_01\bin\Debug\interview_01.exe.config
+C:\Users\User\Desktop\Software developer interview Lunes V1\Projects\interview_01\bin\Debug\interview_01.exe
+C:\Users\User\Desktop\Software developer interview Lunes V1\Projects\interview_01\bin\Debug\interview_01.pdb
+C:\Users\User\Desktop\Software developer interview Lunes V1\Projects\interview_01\obj\Debug\interview_01.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Software developer interview Lunes V1\Projects\interview_01\obj\Debug\interview_01.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Software developer interview Lunes V1\Projects\interview_01\obj\Debug\interview_01.exe
+C:\Users\User\Desktop\Software developer interview Lunes V1\Projects\interview_01\obj\Debug\interview_01.pdb

@@ -1,0 +1,22 @@
+C:\Users\User\Desktop\c# çalışmalar\lunes\interview_02\bin\Debug\interview_02.exe.config
+C:\Users\User\Desktop\c# çalışmalar\lunes\interview_02\bin\Debug\interview_02.exe
+C:\Users\User\Desktop\c# çalışmalar\lunes\interview_02\bin\Debug\interview_02.pdb
+C:\Users\User\Desktop\c# çalışmalar\lunes\interview_02\obj\Debug\interview_02.Form1.resources
+C:\Users\User\Desktop\c# çalışmalar\lunes\interview_02\obj\Debug\interview_02.Properties.Resources.resources
+C:\Users\User\Desktop\c# çalışmalar\lunes\interview_02\obj\Debug\interview_02.csproj.GenerateResource.cache
+C:\Users\User\Desktop\c# çalışmalar\lunes\interview_02\obj\Debug\interview_02.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c# çalışmalar\lunes\interview_02\obj\Debug\interview_02.exe
+C:\Users\User\Desktop\c# çalışmalar\lunes\interview_02\obj\Debug\interview_02.pdb
+C:\Users\User\Desktop\c# çalışmalar\lunes\interview_02\obj\Debug\interview_02.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Software developer interview Lunes V1\Projects\interview_02\bin\Debug\interview_02.exe.config
+C:\Users\User\Desktop\Software developer interview Lunes V1\Projects\interview_02\bin\Debug\interview_02.exe
+C:\Users\User\Desktop\Software developer interview Lunes V1\Projects\interview_02\bin\Debug\interview_02.pdb
+C:\Users\User\Desktop\Software developer interview Lunes V1\Projects\interview_02\bin\Debug\IFilter.dll
+C:\Users\User\Desktop\Software developer interview Lunes V1\Projects\interview_02\obj\Debug\interview_02.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Software developer interview Lunes V1\Projects\interview_02\obj\Debug\interview_02.Form1.resources
+C:\Users\User\Desktop\Software developer interview Lunes V1\Projects\interview_02\obj\Debug\interview_02.Properties.Resources.resources
+C:\Users\User\Desktop\Software developer interview Lunes V1\Projects\interview_02\obj\Debug\interview_02.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Software developer interview Lunes V1\Projects\interview_02\obj\Debug\interview_02.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Software developer interview Lunes V1\Projects\interview_02\obj\Debug\interview_02.csproj.CopyComplete
+C:\Users\User\Desktop\Software developer interview Lunes V1\Projects\interview_02\obj\Debug\interview_02.exe
+C:\Users\User\Desktop\Software developer interview Lunes V1\Projects\interview_02\obj\Debug\interview_02.pdb
